@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 20 19:52:12 2021
+Clase Bombilla que permite representar
+focos que están encedidos o apagados
+usando POO
+@author: Jessica San
 
-@author: guest
 """
 
 class Bombilla:
